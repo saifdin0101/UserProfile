@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rminput{
+  border-color: #6e009e;
+}
+.rminput:focus {
+  outline: none;
+}
+
+.rd{
+  border-radius: 100% 0% 94% 6% / 0% 96% 4% 100%  ;
+  
+}
+.rd2{
+  border-radius: 93% 7% 97% 3% / 41% 76% 24% 59%  ;
+}
+.boxshadoww{
+  box-shadow: 0px 1px 23px -11px rgba(0,0,0,1);
+
+
+}
